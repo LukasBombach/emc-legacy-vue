@@ -1,0 +1,10 @@
+{
+  "name": "emc-vue",
+  "repository": "git@github.com:LukasBombach/emc-vue.git",
+  "author": "Lukas Bombach <lukas.bombach@googlemail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
